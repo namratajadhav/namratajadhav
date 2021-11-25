@@ -10,11 +10,11 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio]()**
 
-- 📫 How to reach me **subham.raoniar@gmail.com**
+- 📫 How to reach me **namufreelance22@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I love to travel and travel very often.**
 
 ## 🚀 Languages and Tools:
 
